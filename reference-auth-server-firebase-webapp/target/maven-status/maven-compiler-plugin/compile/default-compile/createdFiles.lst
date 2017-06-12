@@ -1,0 +1,10 @@
+org/hspconsortium/platform/service/FirebaseTokenService$1.class
+org/hspconsortium/platform/authorization/security/FirebaseJwtFilter.class
+org/hspconsortium/platform/authorization/repository/impl/FirebaseUserInfoRepository.class
+org/hspconsortium/platform/authorization/security/FirebaseJwtLoginUrlAuthenticationEntryPoint.class
+org/hspconsortium/platform/service/EncryptionService.class
+org/hspconsortium/platform/authorization/security/FirebaseJwtAuthenticationProvider.class
+org/hspconsortium/platform/authorization/repository/impl/FirebaseUserProfileDto.class
+org/hspconsortium/platform/service/FirebaseTokenService.class
+org/hspconsortium/platform/authorization/security/LoginController.class
+org/hspconsortium/platform/authorization/security/FirebaseJwtAuthenticationToken.class

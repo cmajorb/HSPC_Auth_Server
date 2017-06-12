@@ -1,0 +1,4 @@
+org/hspconsortium/platform/authorization/rowmapper/HSPCAuthResultSetExtractor.class
+org/hspconsortium/platform/authorization/repository/impl/LdapUserInfoRepository$1.class
+org/hspconsortium/platform/authorization/repository/impl/LdapUserInfoRepository.class
+org/hspconsortium/platform/authorization/userdetails/MappedLdapAuthoritiesPopulator.class

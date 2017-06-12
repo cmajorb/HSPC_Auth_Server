@@ -1,0 +1,4 @@
+org/hspconsortium/platform/security/LaunchContext.class
+org/hspconsortium/platform/security/oauth/mitre/ScopeBasedIntrospectionAuthorityGranter.class
+org/hspconsortium/platform/security/oauth/mitre/ScopeBasedIntrospectionAuthorityGranter$1.class
+org/hspconsortium/platform/security/oauth/mitre/ScopeBasedIntrospectionAuthorityGranter$2.class

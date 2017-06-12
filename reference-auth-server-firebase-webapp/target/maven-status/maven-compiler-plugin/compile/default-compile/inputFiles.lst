@@ -1,0 +1,9 @@
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/service/EncryptionService.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/security/FirebaseJwtAuthenticationProvider.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/repository/impl/FirebaseUserInfoRepository.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/repository/impl/FirebaseUserProfileDto.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/security/FirebaseJwtAuthenticationToken.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/security/FirebaseJwtLoginUrlAuthenticationEntryPoint.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/security/FirebaseJwtFilter.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/service/FirebaseTokenService.java
+/Users/Debbie/Desktop/Major's Stuff/hspconsortium-reference-auth-980c6e0c6685/reference-auth-server-firebase-webapp/src/main/java/org/hspconsortium/platform/authorization/security/LoginController.java
